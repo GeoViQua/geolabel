@@ -61,7 +61,7 @@
                   }
                },
                "drilldown":{
-                  "url":"%s?metadata=%s&facet=lineage"
+                  "url":"%s?metadata=%s&facet=lineage_information"
                }
             }
          },
